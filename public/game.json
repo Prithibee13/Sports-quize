@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "Name" : "Q1",
+        "Question" : "Which country had won the 2022 world Cup?",
+        "A" : "France",
+        "B" : "Garmany",
+        "C" : "Argentina",
+        "D" : "Croatia",
+        "correct" : "Argentina"
+    },
+    {
+        "id" : 2,
+        "Name" : "Q2",
+        "Question" : "Who scored most goal in the 2022 world Cup?",
+        "A" : "Lionel Messi",
+        "B" : "Julian Alvarez",
+        "C" : "Luka Modric",
+        "D" : "Kylian Mbappe",
+        "correct" : "Kylian Mbappe"
+    },
+    {
+        "id" : 3,
+        "Name" : "Q3",
+        "Question" : "Who scored Hat-ric in world Cup final?",
+        "A" : "Lionel Messi",
+        "B" : "Harry Kane",
+        "C" : "Christiano Ronaldo",
+        "D" : "Kylian Mbappe",
+        "correct" : "Kylian Mbappe"
+    },
+    {
+        "id" : 4,
+        "Name" : "Q4",
+        "Question" : "Who became player of the tournament in 2022 world Cup?",
+        "A" : "Lionel Messi",
+        "B" : "Julian Alvarez",
+        "C" : "Luka Modric",
+        "D" : "Kylian Mbappe",
+        "correct" : "Lionel Messi"
+    },
+    {
+        "id" : 5,
+        "Name" : "Q5",
+        "Question" : "Whice country did host the 2022 world Cup?",
+        "A" : "France",
+        "B" : "Qatar",
+        "C" : "Brazil",
+        "D" : "USA",
+        "correct" : "Qatar"
+    }
+]
